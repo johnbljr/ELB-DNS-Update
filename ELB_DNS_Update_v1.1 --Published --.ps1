@@ -3,7 +3,7 @@
 Author: John Leger
 Date: Feb. 20, 2019
 Powershell Version Built/Tested on: 5.1
-Title: PowerShell Bulk AD User Creation from CSV
+Title: ELB DNS Update
 Website: https://github.com/johnbljr
 License: GNU General Public License v3.0
 ------------------------------------------------------------
